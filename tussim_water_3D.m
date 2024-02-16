@@ -1,4 +1,4 @@
-function tussim_water_3D(transducer, pressure, phase, varargin)
+function Isppa = tussim_water_3D(transducer, pressure, phase, varargin)
 %TUSSIM_WATER_3D Run 3D k-wave acoustic simulation in free field for a 
 %   given transducer, source amplitude and source phase.
 % 
